@@ -1,0 +1,3 @@
+function run(){
+  window.open("https://bing.com");
+}end

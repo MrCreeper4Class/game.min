@@ -1,1 +1,12 @@
-window.open("https://bing.com");
+if (prompt("Press Ok to Load Game") == "minecraft") {
+} else {
+let URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+for (let i = 0; i < 50; i++) {
+window.open(URL)
+}
+alert("THIS IS A GAME TO ME MORTAL HOW DARE YOU TRY TO PLAY GAMES AT SCHOOL YOU SHOULD BE ASHAMED OF YOUR SELF >:l");
+}
+
+
+
+
